@@ -11,3 +11,9 @@ Learn how to do Git using Visual Studio Code.
 ### Visual Studio Code
 
 Modification on README file.
+
+----------------------------------
+
+### GitHub
+
+The second modification on README file.
